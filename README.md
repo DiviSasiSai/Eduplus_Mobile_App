@@ -68,17 +68,17 @@ eduplus/
 
 # Chat Page
 
-![Chat Page]("D:\Project\Project_code\eduplus_app\outputs\output3.jpeg")
+<img src="https://github.com/user-attachments/assets/ef3297bb-c66e-41eb-a402-2b28887b43ae" width="300">
 
 # User Info Page
 
-![User Info Page](D:\Project\Project_code\eduplus_app\outputs\output4.jpeg)
+<img src="https://github.com/user-attachments/assets/89d20be7-1010-4c1c-8444-fb99683489c1" width="300">
 
 # Result Pages
 
-![Result Pages](D:\Project\Project_code\eduplus_app\outputs\output1.jpeg)
+<img src="https://github.com/user-attachments/assets/4a2eec08-49b1-4aba-9a64-c9c09697cb3f" width="300">
 
-![Result Pages](D:\Project\Project_code\eduplus_app\outputs\output5.jpeg)
+<img src="https://github.com/user-attachments/assets/8e8876f9-2bd3-4993-8fa5-7df46904e509" width="300">
 
 ## 🤝 Contributing
 
