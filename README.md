@@ -64,7 +64,7 @@ eduplus/
 ## 📸 Screenshots
 
 # Login Page
-![output2](https://github.com/user-attachments/assets/6b057ba5-6a3e-482d-99fe-016b0566e93a)
+<img src="https://github.com/user-attachments/assets/6b057ba5-6a3e-482d-99fe-016b0566e93a" width="300">
 
 # Chat Page
 
