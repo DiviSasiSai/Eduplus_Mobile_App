@@ -69,7 +69,7 @@ eduplus/
 
 # Chat Page
 
-![Chat Page](D:\Project\Project_code\eduplus_app\outputs\output3.jpeg)
+![Chat Page]("D:\Project\Project_code\eduplus_app\outputs\output3.jpeg")
 
 # User Info Page
 
