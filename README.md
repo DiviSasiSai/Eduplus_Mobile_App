@@ -1,4 +1,4 @@
-# Eduplus: A Intelligent Telegram Assistant For Student Updates And Remainders 🧠📚💻
+# Eduplus: Intelligent Telegram Assistant For Student Updates And Remainders 🧠📚💻
 
 Eduplus is a comprehensive educational chat application designed to facilitate seamless communication between students, teachers, and administrators. Built using Flutter, this cross-platform application provides a user-friendly interface, real-time messaging, and integration with Firebase Cloud Messaging (FCM) for push notifications. 📱
 
