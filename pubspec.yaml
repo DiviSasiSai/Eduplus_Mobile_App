@@ -1,0 +1,30 @@
+# name: eduplus_app
+# description: Eduplus mobile app
+
+# environment:
+#   sdk: ">=3.0.0 <4.0.0"
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#     uses-material-design: true
+#   http: ^1.1.0
+#   web_socket_channel: ^2.4.0
+#   shared_preferences: ^2.2.2
+name: eduplus_app
+description: Eduplus mobile app
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  web_socket_channel: ^2.4.0
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.30.0
+  firebase_messaging: ^14.7.10
+
+flutter:
+  uses-material-design: true

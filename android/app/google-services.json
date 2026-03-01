@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164583986824",
+    "project_id": "eduplus-91596",
+    "storage_bucket": "eduplus-91596.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164583986824:android:5eb892462fe45dc5a7313d",
+        "android_client_info": {
+          "package_name": "com.example.eduplus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcYYVhj6MwS9zfOW0wnrQgouVpJajd8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
