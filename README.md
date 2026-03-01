@@ -80,19 +80,10 @@ eduplus/
 
 <img src="https://github.com/user-attachments/assets/8e8876f9-2bd3-4993-8fa5-7df46904e509" width="300">
 
-## 🤝 Contributing
-
-We welcome contributions to Eduplus! If you're interested in contributing, please fork the repository and submit a pull request with your changes.
-
-## 📝 License
-
-Eduplus is licensed under the MIT License.
-
 ## 📬 Contact
 
-For more information or to report issues, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For more information or to report issues, please contact us at [divisasisai@gmail.com](mailto:divisasisai@gmail.com).
 
 ## 💖 Thanks Message
 
-We hope you enjoy using Eduplus! This project was made possible by the contributions of many individuals.
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
+We hope you enjoy using Eduplus! This project was made by the contributions of B1 Batch members.
