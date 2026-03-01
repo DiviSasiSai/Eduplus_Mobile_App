@@ -65,7 +65,7 @@ eduplus/
 
 # Login Page
 
-![Login Page](D:\Project\Project_code\eduplus_app\outputs\output2.jpeg)
+<img src="D:\Project\Project_code\eduplus_app\outputs\output2.jpeg" alt="Login Page" width="500" height="300">
 
 # Chat Page
 
