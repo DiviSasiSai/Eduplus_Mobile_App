@@ -64,8 +64,7 @@ eduplus/
 ## 📸 Screenshots
 
 # Login Page
-
-<img src="D:\Project\Project_code\eduplus_app\outputs\output2.jpeg" alt="Login Page" width="500" height="300">
+![output2](https://github.com/user-attachments/assets/6b057ba5-6a3e-482d-99fe-016b0566e93a)
 
 # Chat Page
 
